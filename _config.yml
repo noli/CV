@@ -1,5 +1,5 @@
 # Site Settings
-title: Currvita ON
+title: 'Currvita ON'
 url: 'http://www.desum.de'
 baseurl: '/CV' #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
