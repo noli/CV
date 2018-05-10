@@ -17,7 +17,7 @@ style: styles-6
 name: Oliver Neitzke
 tagline: 'Physics PhD, Data Analyst'
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Recently finished my PhD in quantum optics at the Humboldt-University of Berlin. Founder of <a href='www.Swishapp.net'>Swishapp Basketball</a>, a sports social media mobile app.'
+summary: 'Recently finished my PhD in quantum optics at the Humboldt-University of Berlin. Founder of <a href="www.Swishapp.net">Swishapp Basketball</a>, a sports social media mobile app.'
 
 #sidebar links
 email: 'neitzke(at)desum.de'
