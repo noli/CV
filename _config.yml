@@ -2,7 +2,7 @@
 title: 'My resume'
 url: 'http://www.desum.de'
 baseurl: '/CV' #change it according to your repository name
-about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
+about: True # set to False or comment line if you want to remove the 'How to use?' in the sidebar
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
@@ -20,8 +20,8 @@ pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and pro
 summary: 'Recently finished my PhD in quantum optics at the Humboldt-University of Berlin. Founder of <a href='www.Swishapp.net'>Swishapp Basketball</a>, a sports social media mobile app.'
 
 #sidebar links
-email: "neitzke(at)desum.de"
-#phone: "-"
+email: 'neitzke(at)desum.de'
+#phone: '-'
 website: www.desum.de #do not add http://
 linkedin: 'oliver-neitzke'
 github: 'noli'
@@ -35,7 +35,7 @@ twitter: '@noli712'
 analytics: UA-XXX-X
 
 # Build settings
-encoding: "utf-8"
+encoding: 'utf-8'
 compress_html: # - http://jch.penibelst.de/
   clippings: all
   ignore:

@@ -1,11 +1,11 @@
-intro: "A selection of my many completed extra-curricluar projects:"
+intro: 'A selection of my many completed extra-curricluar projects:'
 projects:
   - project:
     title: Mobile App Developer
-    link: "#swishapp.net"
-    tagline: "A sports social networking app for iOS and Android."
+    link: '#swishapp.net'
+    tagline: 'A sports social networking app for iOS and Android.'
   - project:
     title: Treasurer Basketball Club
-    link: "www.einheit-pankow.de"
-    tagline: "Responsible for the finances and operations of a sports club in Berlin-Pankow."
+    link: 'www.einheit-pankow.de'
+    tagline: 'Responsible for the finances and operations of a sports club in Berlin-Pankow.'
   

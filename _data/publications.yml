@@ -1,10 +1,10 @@
-intro: "A selection of my scientific publications"
+intro: 'A selection of my scientific publications'
 publications:
   - paper:
-    title: "Investigation of Linewidth Narrowing and Spectral Jumps of Single Stable Defect Centers in ZnO at Cryogenic Temperature"
-    authors: "Oliver Neitzke, Anthony Morfa, Janik Wolters, Andreas W. Schell, Günter Kewes, and Oliver Benson"
-    conference: "Nano Letters 2015 15 (5), 3024-3029"
+    title: 'Investigation of Linewidth Narrowing and Spectral Jumps of Single Stable Defect Centers in ZnO at Cryogenic Temperature'
+    authors: 'Oliver Neitzke, Anthony Morfa, Janik Wolters, Andreas W. Schell, Günter Kewes, and Oliver Benson'
+    conference: 'Nano Letters 2015 15 (5), 3024-3029'
   - paper:
-    title: "Photostable Molecules on Chip: Integrated Sources of Non-classical Light"
-    authors: "P. Lombardi, A. P. Ovvyan, S. Pazzagli, G. Mazzamuto, G. Kewes, <bf>O. Neitzke</bf>, N. Gruhler, O. Benson, W. H. P. Pernice, F. S. Cataliotti, and C. Toninelli"
-    conference: "ACS Photonics 2018 5 (1), 126-132"
+    title: 'Photostable Molecules on Chip: Integrated Sources of Non-classical Light'
+    authors: 'P. Lombardi, A. P. Ovvyan, S. Pazzagli, G. Mazzamuto, G. Kewes, <bf>O. Neitzke</bf>, N. Gruhler, O. Benson, W. H. P. Pernice, F. S. Cataliotti, and C. Toninelli'
+    conference: 'ACS Photonics 2018 5 (1), 126-132'
