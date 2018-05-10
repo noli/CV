@@ -1,0 +1,11 @@
+intro: "A selection of my many completed extra-curricluar projects:"
+projects:
+  - project:
+    title: Mobile App Developer
+    link: "#swishapp.net"
+    tagline: "A sports social networking app for iOS and Android."
+  - project:
+    title: Treasurer Basketball Club
+    link: "www.einheit-pankow.de"
+    tagline: "Responsible for the finances and operations of a 320 member sports club in Berlin-Pankow."
+  
