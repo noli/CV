@@ -1,6 +1,11 @@
 - experience:
+  role: Autonomous Driving, Sensors Expert
+  time: 2020 - present
+  company: BMW Group
+  details: 'LIDAR hardware development for autonomous driving and ADAS'
+- experience:
   role: Automotive LIDAR Development Engineer
-  time: 2018 - present
+  time: 2018 - 2020
   company: OSRAM Licht GmbH
   details: 'LIDAR module development for autonomous driving and ADAS'
 - experience:
